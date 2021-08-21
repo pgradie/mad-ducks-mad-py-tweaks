@@ -1,0 +1,13 @@
+{
+  "name": "mdpy-vanillabegone",
+  "author": "MdStudio5",
+  "version": "0.0.1",
+  "title": "Mad Duck's Mad Py Tweaks - Vanilla Be Gone",
+  "homepage": "",
+  "description": "This mod aims to remove vanilla graphics from the Pyanodons mod suite.",
+  "factorio_version": "1.1",
+  "dependencies": [
+    "base >= 1.1.0",
+    "pycoalprocessing >= 1.9.3"
+  ]
+}
